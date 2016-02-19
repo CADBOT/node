@@ -1,0 +1,3 @@
+Create your own process.nextTick maze with an intricate call stack. Make it really
+tricky. Then, exchange code with a partner. Look at your partners code and try to
+verify it's execution order, then run it to verify

@@ -1,0 +1,12 @@
+Create two library modules and one App module
+
+1. In the first library module have it return a random
+catchphase, and generate a lucky number
+
+2. In the second library module create a cartoon character
+constructor function. Make one of the properties a catchpharse
+that you will import from the generator module, and another a lucky
+number.
+
+3. In your app module, consume the cartoon module, create at least 
+1 cartoon character instance, and print out its properties

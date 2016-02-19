@@ -1,0 +1,3 @@
+1. Add a dogs array to your db object. Add a GET /dogs route to your app, that will return an array of dogs. 
+
+2. Add a post CATS route to your app, that will save a new cat object to the cats array.

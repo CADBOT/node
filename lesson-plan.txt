@@ -1,0 +1,2 @@
+Lesson 1: Modular patterns in Node
+Lab 1: Create your own modules using each pattern 
